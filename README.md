@@ -41,15 +41,5 @@ This repository is intended as an experimental framework for studying **interpre
 ## Notes
 
 - This project is exploratory and research-oriented.
-- It is not intended to enforce or expose hidden chain-of-thought, but to study **internal reasoning dynamics** through representation-level interventions.
 
-## Future Work
-
-Potential extensions include:
-- Multi-class reasoning styles
-- Token-level or attention-based steering
-- Evaluation across different model families
-- Stability and robustness analysis of steering directions
-
----
 
